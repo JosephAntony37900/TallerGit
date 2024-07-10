@@ -1,0 +1,19 @@
+{
+  "name": "tallergit",
+  "version": "1.0.0",
+  "description": "taller de flujo de trabajo con git",
+  "main": "https://github.com/JosephAntony37900/TallerGit",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JosephAntony37900/TallerGit.git"
+  },
+  "author": "Joseph",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JosephAntony37900/TallerGit/issues"
+  },
+  "homepage": "https://github.com/JosephAntony37900/TallerGit#readme"
+}
